@@ -24,7 +24,7 @@ About Screen
 ![App ScreenShot](https://github.com/gavri-do7/Latel/blob/main/Latel%20About%20Screen.jpg?raw=true)
 ## Screens Recording
 
-[Profile Screen](https://github.com/gavri-do7/Latel/blob/main/Profile%20Window.mp4)
+(https://github.com/user-attachments/assets/38c62f97-45c0-4a86-84aa-a0afc95011d4)
 
 [Value Modification Example](https://github.com/gavri-do7/Latel/blob/main/Profile%20Window.mp4)
 
