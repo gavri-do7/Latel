@@ -1,8 +1,30 @@
 
 # Latel
 
-Latel is a GUI communication chat room, using diffrent technologies such as GLFW OpenCV
-MySQL Non-Blocking Sockets. The project contains both a CLI for the server and GUI for the user, both client and server side were codded in c++.
+# 🚀 Latel - C++ Chat Room App
+Latel is a lightweight C++ chat room app with a GUI for users and a CLI for the server. It’s built using a mix of powerful tools like GLFW, OpenCV, MySQL, and non-blocking sockets to keep everything fast and responsive.
+
+# 🔧 What’s Inside:
+🖥️ GUI client using GLFW for a smooth and simple interface
+
+🛠️ CLI server for managing connections and messages
+
+⚡ Non-blocking sockets for real-time communication
+
+🗃️ MySQL for storing user data and chat info
+
+🎥 OpenCV support (for future image/video features)
+
+# 💻 Built With:
+C++ (both client and server)
+
+GLFW
+
+OpenCV
+
+MySQL
+
+BSD-style non-blocking networking
 
 
 ## Screenshots
